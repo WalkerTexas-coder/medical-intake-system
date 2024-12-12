@@ -34,5 +34,5 @@ function App() {
     </div>
   );
 }
-
+// TODO: Add a footer with the Teligant logo and the Teligant AI logo
 export default App;
